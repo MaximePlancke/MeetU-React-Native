@@ -1,0 +1,26 @@
+export const USERNAME_CHANGED = 'username_changed'
+export const PASSWORD_CHANGED = 'password_changed'
+export const CHECK_PASSWORD_CHANGED = 'check_password_changed'
+export const NAME_CHANGED = 'name_changed'
+export const LOGIN_USER_SUCCESS = 'login_user_success'
+export const LOGIN_USER_FAIL = 'login_user_fail'
+export const AUTH_RESET_ERRORS = 'auth_reset_errors'
+export const LOGIN_USER = 'login_user'
+export const LOGOUT_USER = 'logout_user'
+export const SIGNUP_USER = 'signup_user'
+export const SIGNUP_USER_SUCCESS = 'signup_user_success'
+export const SIGNUP_USER_FAIL = 'signup_user_fail'
+export const TOKEN_EXIST = 'token_exist'
+export const TOKEN_IS_EMPTY = 'token_is_empty'
+export const TOKEN_ERROR = 'token_error'
+
+export const SELECT_MESSAGE = 'select_message'
+
+export const PROFILE_LOADED = 'profile_loaded'
+export const PROFILE_CHANGED = 'profile_changed'
+export const PROFILE_SELECT_CATEGORY = 'profile_select_category'
+
+export const SAVE_USER = 'save_user'
+export const SAVE_USER_SUCCESS = 'save_user_success'
+
+export const CONFIG_LOADED = 'config_loaded'
